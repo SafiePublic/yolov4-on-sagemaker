@@ -1,0 +1,2 @@
+/opt/ml/input/data/train/camera/000.jpg
+/opt/ml/input/data/train/camera/001.jpg

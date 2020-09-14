@@ -1,0 +1,6 @@
+classes= 1
+train  = /opt/ml/input/data/train/train.txt
+valid  = /opt/ml/input/data/train/test.txt
+names = /opt/ml/input/data/train/classes.txt
+backup = /opt/ml/model/
+
